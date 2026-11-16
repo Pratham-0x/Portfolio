@@ -1,0 +1,28 @@
+@import "tailwindcss";
+*{
+    box-sizing: border-box;
+    scrollbar-width: none;
+}
+
+/* html{
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+section{
+    min-height: 100vh;
+    scroll-snap-align: start;
+} */
+.text-gradient{
+    background: linear-gradient(to bottom, #ffffff, #898989);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.navbtn{
+    margin: 0 10px;
+}
+
+li{
+    margin: 2px;
+}
