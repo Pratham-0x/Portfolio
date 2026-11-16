@@ -24,8 +24,8 @@ function Contact(){
             </div>
         <div className="border-t m-2 pl-5 pt-5 text-3xl flex flex-col">
             <span className="gap-10 text-white/20">DROP ME A MESSAGE</span> <br />
-            <span className="gap-10"><a className="hover:border-b" href="mailto:prathamlodhi0xx8@gmail.com?subject=Let's%20build%20something" target="_blank">Say Hello ↗</a></span> <br />
-            <span className="gap-10 text-white/20">prathamlodhi0xx8@gmail.com</span>
+            <span className="gap-10"><a className="hover:border-b" href="mailto:pratham0xx8@gmail.com?subject=Let's%20build%20something" target="_blank">Say Hello ↗</a></span> <br />
+            <span className="gap-10 text-white/20">pratham0xx8@gmail.com</span>
         </div>
         </section>
     </>
